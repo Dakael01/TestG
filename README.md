@@ -1,2 +1,2 @@
 # TestG
-test github shell
+testG is just a test, nothing else
